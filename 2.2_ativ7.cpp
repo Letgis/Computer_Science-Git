@@ -1,3 +1,7 @@
+/*2.3.9 Dados 3 valores representando os lados de um triângulo,
+verifique se este triângulo é escaleno (3 lados diferentes),
+isósceles (2 lados iguais) ou eqüilátero (3 lados iguais).*/
+
 #include <stdio.h>
 #include <iostream>
 
