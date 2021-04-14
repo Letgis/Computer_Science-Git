@@ -5,9 +5,8 @@
 
 int main(){
     char name[30];
-    int age;
-    int i = 1;
-
+    int age, i = 1;
+    
     printf("\nIdade de 10 Funcionarios\n");
 
     while (i <= 10)
